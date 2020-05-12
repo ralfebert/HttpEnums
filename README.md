@@ -1,3 +1,3 @@
 # HttpEnums
 
-A description of this package.
+Swift enum types for HTTP: `ContentType`, `HTTPHeader`, `HTTPMethod` and `HTTPStatusCode`.
